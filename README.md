@@ -23,5 +23,7 @@ https://styletts2.github.io/
 
 ## Output
 
+https://github.com/camenduru/styletts-colab/assets/54370274/f30b3d16-4260-49c7-808e-934451a5a8dc
+
 ## Sponsor
 https://modelslab.com
