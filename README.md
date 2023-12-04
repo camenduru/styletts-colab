@@ -4,6 +4,8 @@
 
 # 🚦 WIP 🚦
 
+This runs the [StyleTTS 2 online demo on HF Spaces](https://huggingface.co/spaces/styletts2/styletts2) on Colab.
+
 ## 🦒 Colab
 
 | Colab | Info
