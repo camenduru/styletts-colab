@@ -8,7 +8,8 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/styletts-colab/blob/main/styletts2_colab.ipynb) | styletts2_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/styletts-colab/blob/main/styletts2_colab.ipynb) | styletts2_colab (Thanks to [@realmrfakename](https://twitter.com/realmrfakename) ❤)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/korakoe/StyleTTS2/blob/main/Colab/StyleTTS2_Finetune_Demo.ipynb) | StyleTTS2_Finetune_Demo (Thanks to [@korakoe](https://github.com/korakoe/StyleTTS2) ❤)
 
 ## Tutorial
 
